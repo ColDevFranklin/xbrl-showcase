@@ -1,4 +1,3 @@
-cat > examples/aapl_analysis.json << 'EOF'
 {
   "ticker": "AAPL",
   "company_name": "Apple Inc.",
@@ -91,4 +90,4 @@ cat > examples/aapl_analysis.json << 'EOF'
     "cache_hit": true
   }
 }
-EOF
+
