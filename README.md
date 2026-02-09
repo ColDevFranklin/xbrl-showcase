@@ -189,7 +189,7 @@ Franklin Framework provides:
 ## 📫 Contact
 
 **For commercial licensing inquiries:**
-- Email: franklinnrodriguez@gmail.com
+- Email: franklinnrodriguez83@gmail.com
 - Location: Villavicencio, Colombia
 - Status: Production-ready system, active development
 
